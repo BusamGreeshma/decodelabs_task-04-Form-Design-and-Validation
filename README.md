@@ -4,7 +4,9 @@ Welcome to **Project 4: Form Design & Validation** for the DecodeLabs Mastery Ph
 
 ## 🚀 Live Demo & Deployment
 
-This project is set up for instant hosting on **Vercel** and deployment to **GitHub**.
+This project is deployed live on Vercel:
+- **Production URL**: [decodelabs-form-validation.vercel.app](https://decodelabs-form-validation.vercel.app)
+- **Deployment URL**: [decodelabs-form-validation-mt4ec1pnd.vercel.app](https://decodelabs-form-validation-mt4ec1pnd.vercel.app)
 
 ---
 
